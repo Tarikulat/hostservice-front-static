@@ -1,0 +1,45 @@
+@media (max-width: 426px) {
+    /* .img-fluid{
+        width: 101%;
+    } */
+    .w-75 {
+        width: 80% !important;
+    }
+    .hero-content-left h1{
+        font-size: 20px;
+        
+    }
+    .hero-content-left p{
+        font-size: 13px;
+    }
+    .search-btn{
+        font-weight: 5%;
+        font-size: 10px;
+       
+    }
+  .input-group{
+    width: 101%
+    
+  }
+
+  }
+  
+  @media (max-width: 375px) {
+    
+  }
+  
+  @media (max-width: 320px) {
+    
+  }
+  @media (max-width: 780px) {
+
+  .navbar-collapse {
+      padding: 20px;
+  }
+  
+  .collapse:not(.show) {
+      display: none;
+  }
+}
+    
+  
