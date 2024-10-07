@@ -338,16 +338,16 @@ onMounted(() => {
 
                   <tr style="width: 20%; text-align: center">
                     <td class="primary-bg">
-                      <h6 class="text-left text-white text-pl"> Core CPU</h6>
+                      <h6 class="text-left text-white text-pl">CPU</h6>
                     </td>
                     <td>
-                      <h6>4 5.9 GHz Pro </h6>
+                      <h6>4 Core 5.9 GHz Pro </h6>
                     </td>
                     <td>
-                      <h6>8 5.9 GHz Pro </h6>
+                      <h6>8 Core 5.9 GHz Pro </h6>
                     </td>
                     <td>
-                      <h6>16 5.9 GHz Pro </h6>
+                      <h6>16 Core 5.9 GHz Pro </h6>
                     </td>
                     <!-- <td>
                       <h6>750 GB </h6>
