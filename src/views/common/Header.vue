@@ -154,7 +154,7 @@ const isOpenModal = () => {
                                             <span aria-expanded="false" aria-controls="navBar" data-toggle="collapse"
                                                 data-target="#navBar">
                                                 <router-link class="title-with-icon-link"
-                                                    :to="{ name: 'rocket-server' }">
+                                                    :to="{ name: 'bdixtoofan-server' }">
                                                     <div class="media">
                                                         <img class="menu-titile-icon" src="@/assets/img/3hos.png"
                                                             alt="SVG">

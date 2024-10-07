@@ -57,14 +57,14 @@
                     <div class="single-service-plane text-center rounded white-bg shadow-sm p-5 mt-md-4 mt-lg-4">
                         <img src="@/assets/img/3hos.png" alt="shared hosting" class="img-fluid mb-4" width="45" />
                         <div class="service-plane-content serve">
-                            <h3 class="h5">Rocket Cloud Server</h3>
+                            <h3 class="h5">BDIX Toofan Server</h3>
                             <p>High-performance, scalable cloud solutions for rapid deployment and seamless management
                                 of
                                 your digital infrastructure.</p>
                         </div>
                         <div class="cart-home">
-                            <h4><small class="cl-b">Starting at </small><small class="pricolor">৳10490</small></h4>
-                            <a href="rocket-server" class="elementor-button-link elementor-button elementor-size-sm"
+                            <h4><small class="cl-b">Starting at </small><small class="pricolor">৳4890</small></h4>
+                            <a href="bdixtoofan-server" class="elementor-button-link elementor-button elementor-size-sm"
                                 role="button"><span class="btn outline-btn mb-3 cart-btn"><span
                                         class="elementor-button-text">Order Now</span></span></a>
                         </div>

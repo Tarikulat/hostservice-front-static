@@ -66,8 +66,8 @@ const router = createRouter({
     },
     //...server.....
     {
-      path: '/rocket-server',  
-      name: 'rocket-server',   
+      path: '/bdixtoofan-server',  
+      name: 'bdixtoofan-server',   
       component: RocketServer, 
     },
     {
