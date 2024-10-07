@@ -80,7 +80,7 @@
                                 and rising companies.</p>
                         </div>
                         <div class="cart-home">
-                            <h4><small class="cl-b">Starting at </small><small class="pricolor">৳4590</small></h4>
+                            <h4><small class="cl-b">Starting at </small><small class="pricolor">৳6990</small></h4>
                             <a href="vps-server" class="elementor-button-link elementor-button elementor-size-sm"
                                 role="button"><span class="btn outline-btn mb-3 cart-btn"><span
                                         class="elementor-button-text">Order Now</span></span></a>
