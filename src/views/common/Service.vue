@@ -30,9 +30,9 @@
                         </div>
                         <div class="cart-home">
                             <h4><small class="cl-b">Starting at </small><small class="pricolor">৳750</small></h4>
-                            <a href="shared-host" class="btn outline-btn mb-3 cart-btn"><span
+                            <router-link :to="{ name: 'shared-host' }" class="btn outline-btn mb-3 cart-btn"><span
                                     class="elementor-button-content-wrapper"><span class="elementor-button-text">Order
-                                        Now</span></span></a>
+                                        Now</span></span></router-link>
                         </div>
                     </div>
                 </div>
@@ -47,9 +47,10 @@
                         </div>
                         <div class="cart-home">
                             <h4><small class="cl-b">Starting at </small><small class="pricolor">৳1890</small></h4>
-                            <a href="ecommerce-hosting" class="elementor-button-link elementor-button elementor-size-sm"
-                                role="button"><span class="btn outline-btn mb-3 cart-btn"><span
-                                        class="elementor-button-text">Order Now</span></span></a>
+                            <router-link :to="{ name: 'ecommerce-host' }"
+                                class="elementor-button-link elementor-button elementor-size-sm" role="button"><span
+                                    class="btn outline-btn mb-3 cart-btn"><span class="elementor-button-text">Order
+                                        Now</span></span></router-link>
                         </div>
                     </div>
                 </div>
@@ -64,9 +65,10 @@
                         </div>
                         <div class="cart-home">
                             <h4><small class="cl-b">Starting at </small><small class="pricolor">৳4890</small></h4>
-                            <a href="bdixtoofan-server" class="elementor-button-link elementor-button elementor-size-sm"
-                                role="button"><span class="btn outline-btn mb-3 cart-btn"><span
-                                        class="elementor-button-text">Order Now</span></span></a>
+                            <router-link :to="{ name: 'bdixtoofan-server' }"
+                                class="elementor-button-link elementor-button elementor-size-sm" role="button"><span
+                                    class="btn outline-btn mb-3 cart-btn"><span class="elementor-button-text">Order
+                                        Now</span></span></router-link>
                         </div>
                     </div>
                 </div>
@@ -81,9 +83,10 @@
                         </div>
                         <div class="cart-home">
                             <h4><small class="cl-b">Starting at </small><small class="pricolor">৳6990</small></h4>
-                            <a href="vps-server" class="elementor-button-link elementor-button elementor-size-sm"
-                                role="button"><span class="btn outline-btn mb-3 cart-btn"><span
-                                        class="elementor-button-text">Order Now</span></span></a>
+                            <router-link :to="{ name: 'vps-server' }"
+                                class="elementor-button-link elementor-button elementor-size-sm" role="button"><span
+                                    class="btn outline-btn mb-3 cart-btn"><span class="elementor-button-text">Order
+                                        Now</span></span></router-link>
                         </div>
                     </div>
                 </div>
@@ -98,9 +101,9 @@
                         <div class="cart-home">
                             <h4><small class="cl-b">Starting at </small><small class="pricolor">৳14390</small>
                             </h4>
-                            <a href="dadicated-server" class="elementor-button-link elementor-button elementor-size-sm"
+                            <router-link :to="{ name: 'DedicatedServer' }" class="elementor-button-link elementor-button elementor-size-sm"
                                 role="button"><span class="btn outline-btn mb-3 cart-btn"><span
-                                        class="elementor-button-text">Order Now</span></span></a>
+                                        class="elementor-button-text">Order Now</span></span></router-link>
                         </div>
                     </div>
                 </div>
@@ -114,9 +117,10 @@
                         </div>
                         <div class="cart-home">
                             <h4><small class="cl-b">Starting at </small><small class="pricolor">৳3890</small></h4>
-                            <a href="reseller-hosting" class="elementor-button-link elementor-button elementor-size-sm"
-                                role="button"><span class="btn outline-btn mb-3 cart-btn"><span
-                                        class="elementor-button-text">Order Now</span></span></a>
+                            <router-link :to="{ name: 'reseller-host' }"
+                                class="elementor-button-link elementor-button elementor-size-sm" role="button"><span
+                                    class="btn outline-btn mb-3 cart-btn"><span class="elementor-button-text">Order
+                                        Now</span></span></router-link>
                         </div>
                     </div>
                 </div>

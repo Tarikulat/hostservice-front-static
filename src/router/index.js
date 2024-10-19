@@ -12,7 +12,7 @@ import {
   EcommerceHost,
   ResellerHost,
   VpsServer,
-  RocketServer,
+  BdixToofan,
   DedicatedServer,
   Contact,
   About,
@@ -68,7 +68,7 @@ const router = createRouter({
     {
       path: '/bdixtoofan-server',  
       name: 'bdixtoofan-server',   
-      component: RocketServer, 
+      component: BdixToofan, 
     },
     {
       path: '/vps-server',  
